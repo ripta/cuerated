@@ -1,2 +1,3 @@
 # cuerated
-Collection of CUE (cuelang) Patterns
+
+Collection of CUE modules and patterns.
